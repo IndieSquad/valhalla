@@ -7,4 +7,4 @@
 
 
 
-<b><tt><font color= #FF0000>goose<font></tt></b>
+<b><font color= #FF0000>goose<font></b>

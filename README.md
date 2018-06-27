@@ -22,6 +22,6 @@
 ░░░░░░░░░░░▌▌░▌▌░░░░░
 ░░░░░░░░░▄▄▌▌▄▌▌░░░░░
   
- <a href=" https://pbs.twimg.com/media/Cgp2792U4AIn7II.jpg">HESOYAM</a> 
+ < img src=" https://pbs.twimg.com/media/Cgp2792U4AIn7II.jpg">HESOYAM</a> 
   
   </b>

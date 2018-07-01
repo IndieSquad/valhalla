@@ -1,0 +1,3 @@
+X:\GameDev\UnrealProjects\game\valhalla\Valhalla\Source\Valhalla\Valhalla.Build.cs
+X:\GameDev\UnrealProjects\game\valhalla\Valhalla\Source\Valhalla.Target.cs
+X:\GameDev\UnrealProjects\game\valhalla\Valhalla\Source\ValhallaEditor.Target.cs

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Valhalla.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{FCC73A96-69BD-48EA-9965-98212806A2D4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Valhalla.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ValhallaEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{1BDBE489-2F17-4347-8753-368A0F63FEEC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Valhalla">
+			<UniqueIdentifier>{9638E76F-3657-4DF1-A073-E2180D84F026}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Valhalla\Valhalla.Build.cs">
+			<Filter>Source\Valhalla</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Valhalla\Valhalla.cpp">
+			<Filter>Source\Valhalla</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Valhalla\Valhalla.h">
+			<Filter>Source\Valhalla</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Valhalla\ValhallaGameModeBase.cpp">
+			<Filter>Source\Valhalla</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Valhalla\ValhallaGameModeBase.h">
+			<Filter>Source\Valhalla</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
